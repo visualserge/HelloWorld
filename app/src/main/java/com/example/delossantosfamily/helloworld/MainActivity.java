@@ -44,6 +44,7 @@ public class MainActivity extends ActionBarActivity {
 
     public void clearHello(View v){
 
+        //Clearing the text box
         _textView.setText("");
 
     }
