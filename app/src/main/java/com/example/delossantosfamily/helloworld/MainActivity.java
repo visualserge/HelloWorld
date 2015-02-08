@@ -35,6 +35,8 @@ public class MainActivity extends ActionBarActivity {
         String message = "Hello World!";
 
         //This from me :)
+        //Another exciting push :)
+
         _textView.setText(message);
 
     }
